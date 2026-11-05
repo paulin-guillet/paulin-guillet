@@ -37,11 +37,11 @@ A video game designed and built in Python in 4 days with a small team, splitting
 
 ---
 
-#### 🛠️ Toolbox
+#### Toolbox
 
 <img src="https://skillicons.dev/icons?i=python,r,java,swift,c,ocaml" alt="Python, R, Java, Swift, C, OCaml" /> &nbsp;+ `SQL`
 
-#### 📫 Reach me
+#### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/paulin-guillet-43178a213/)
 
