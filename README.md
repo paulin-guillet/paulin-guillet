@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Paulin+%F0%9F%91%8B;Trainee+statistician+%40+ENSAI+%2F+Insee;I+like+building+things+fast;Statistics+%C2%B7+Machine+learning+%C2%B7+Cybersecurity" alt="Hi, I'm Paulin — trainee statistician who likes building things fast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Paulin+%F0%9F%91%8B;Trainee+statistician+%40+ENSAI+%2F+Insee;Statistics+%C2%B7+Machine+learning+%C2%B7+Cybersecurity" alt="Hi, I'm Paulin — trainee statistician" />
 
 </div>
 
@@ -14,11 +14,6 @@
   best_under  : time pressure & teamwork  (48 h hackathon, 4-day game jam)
   looking_for : internship in statistics / data science / AI
   languages   : French (native), English (C1)
-
-> table(paulin$competitions)
-
-  1st place   4th / 11   coming soon
-          1          1             1
 ```
 
 ---
