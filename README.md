@@ -7,13 +7,9 @@
 ```
 > summary(paulin)
 
-  school      : ENSAI (French National School of Statistics), 1st year
-  status      : trainee statistician, French civil service (Insee)
-  background  : CPGE MPI* - intensive maths & computer science
+  school      : ENSAI · trainee statistician at Insee
   focus       : statistics, machine learning, cybersecurity
-  best_under  : time pressure & teamwork  (48 h hackathon, 4-day game jam)
-  looking_for : internship in statistics / data science / AI
-  languages   : French (native), English (C1)
+  looking_for : internship in data science / AI
 ```
 
 ---
