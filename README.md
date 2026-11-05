@@ -12,6 +12,13 @@
   looking_for : internship in data science / AI
 ```
 
+<p>
+  <img src="https://img.shields.io/badge/background-CPGE%20MPI%2A-2F81F7?style=flat-square" alt="Background: CPGE MPI*" />
+  <img src="https://img.shields.io/badge/English-C1-2F81F7?style=flat-square" alt="English: C1" />
+  <img src="https://img.shields.io/badge/hackathon-48%20h-2F81F7?style=flat-square" alt="Hackathon: 48 h" />
+  <img src="https://img.shields.io/badge/game%20jam-4%20days-2F81F7?style=flat-square" alt="Game jam: 4 days" />
+</p>
+
 ---
 
 #### 🧪 Projects
