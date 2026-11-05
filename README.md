@@ -19,7 +19,7 @@
 
 ---
 
-#### 🧪 Projects
+#### Projects
 
 **[Defense-Reseau-Kademlia](https://github.com/paulin-guillet/Defense-Reseau-Kademlia)** — *can statistics spot a Sybil attack?*<br>
 Simulated a Kademlia peer-to-peer network in Java, modelled a Sybil attack on it, then designed an empirical, density-based method to detect the attackers. CPGE research project (TIPE), built with feedback from researchers in the field.<br>
