@@ -10,12 +10,8 @@
   school      : ENSAI · trainee statistician at Insee
   focus       : statistics, machine learning, cybersecurity
   looking_for : 2–3 month internship in data science / AI, from June 2027
+  languages   : French (native), English (C1)
 ```
-
-<p>
-  <img src="https://img.shields.io/badge/background-CPGE%20MPI%2A-2F81F7?style=flat-square" alt="Background: CPGE MPI*" />
-  <img src="https://img.shields.io/badge/English-C1-2F81F7?style=flat-square" alt="English: C1" />
-</p>
 
 ---
 
