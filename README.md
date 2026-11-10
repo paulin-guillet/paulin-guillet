@@ -18,7 +18,7 @@
 #### Projects
 
 **[Defense-Reseau-Kademlia](https://github.com/paulin-guillet/Defense-Reseau-Kademlia)** — *can statistics stop a Sybil attack?*<br>
-A simulated censorship attack on a 5,000-node Kademlia peer-to-peer network, and a two-step defence: a density-based statistical test flags the attackers, then the set of peers holding the record is widened. A few dozen fake nodes are enough to censor every lookup; the defence restores access in over 99 % of simulated runs. CPGE research project (TIPE), built with feedback from researchers in the field.<br>
+A Sybil censorship attack simulated on a 5,000-node Kademlia peer-to-peer network, and a statistical defence that detects it and restores access in over 99 % of runs. CPGE research project (TIPE), built with feedback from researchers in the field.<br>
 `Java` `Python` `PeerSim` `anomaly detection` `density analysis`
 
 <a href="https://github.com/paulin-guillet/Defense-Reseau-Kademlia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulin-guillet/Defense-Reseau-Kademlia/main/docs/figures/taux-reussite-sombre.png"><img src="https://raw.githubusercontent.com/paulin-guillet/Defense-Reseau-Kademlia/main/docs/figures/taux-reussite-clair.png" alt="Success rate of the defence by number of Sybil nodes: above 98 % up to 75 Sybils, 92 % at 100, 49 % at 200" width="640"></picture></a>
