@@ -9,7 +9,7 @@
 
   school      : ENSAI · trainee statistician at Insee
   focus       : statistics, machine learning, cybersecurity
-  looking_for : 2–3 month internship in data science / AI, from June 2027
+  looking_for : 1–2 month internship in data science / AI, around May–June 2027
   languages   : French (native), English (C1)
 ```
 
@@ -35,7 +35,7 @@ A video game designed and built in Python in 4 days with a small team, splitting
 
 #### Toolbox
 
-<img src="https://skillicons.dev/icons?i=python,r,java,swift,c,ocaml" alt="Python, R, Java, Swift, C, OCaml" /> &nbsp;+ `SQL`
+<img src="https://skillicons.dev/icons?i=r,python,java,swift,c,ocaml,git,postgres,supabase,bash,linux" alt="R, Python, Java, Swift, C, OCaml, Git, PostgreSQL, Supabase, Bash, Linux" /> &nbsp;+ `SQL`
 
 #### Reach me
 
