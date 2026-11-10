@@ -17,9 +17,11 @@
 
 #### Projects
 
-**[Defense-Reseau-Kademlia](https://github.com/paulin-guillet/Defense-Reseau-Kademlia)** — *can statistics spot a Sybil attack?*<br>
-Simulated a Kademlia peer-to-peer network in Java, modelled a Sybil attack on it, then designed an empirical, density-based method to detect the attackers. CPGE research project (TIPE), built with feedback from researchers in the field.<br>
-`Java` `network simulation` `anomaly detection` `density analysis`
+**[Defense-Reseau-Kademlia](https://github.com/paulin-guillet/Defense-Reseau-Kademlia)** — *can statistics stop a Sybil attack?*<br>
+A simulated censorship attack on a 5,000-node Kademlia peer-to-peer network, and a two-step defence: a density-based statistical test flags the attackers, then the set of peers holding the record is widened. A few dozen fake nodes are enough to censor every lookup; the defence restores access in over 99 % of simulated runs. CPGE research project (TIPE), built with feedback from researchers in the field.<br>
+`Java` `Python` `PeerSim` `anomaly detection` `density analysis`
+
+<a href="https://github.com/paulin-guillet/Defense-Reseau-Kademlia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulin-guillet/Defense-Reseau-Kademlia/main/docs/figures/taux-reussite-sombre.png"><img src="https://raw.githubusercontent.com/paulin-guillet/Defense-Reseau-Kademlia/main/docs/figures/taux-reussite-clair.png" alt="Success rate of the defence by number of Sybil nodes: above 98 % up to 75 Sybils, 92 % at 100, 49 % at 200" width="640"></picture></a>
 
 <a href="https://jefe.casa"><img src="https://jefe.casa/illus/suricate-coucou.svg" alt="Jefe mascot" width="70" align="right" /></a>
 
