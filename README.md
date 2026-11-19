@@ -9,7 +9,7 @@
 
   school      : ENSAI · trainee statistician at Insee
   focus       : statistics, machine learning, cybersecurity
-  looking_for : 1–2 month internship in data science / AI, around May–June 2027
+  looking_for : 6–8 week internship in data science / AI, starting 15 June 2027
   languages   : French (native), English (C1)
 ```
 
